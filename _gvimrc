@@ -1,0 +1,5 @@
+winpos 320 512
+colorscheme wombat
+if g:colors_name ==? 'wombat'
+	hi Visual gui=none guifg=khaki guibg=olivedrab
+endif
